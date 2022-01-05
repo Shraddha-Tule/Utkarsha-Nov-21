@@ -1,0 +1,1 @@
+00:58:05	ravi nangare:	SELECT * INTO [dbo].[student_info_bkp]FROM [dbo].[student_info]
